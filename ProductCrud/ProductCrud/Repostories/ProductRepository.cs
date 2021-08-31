@@ -8,6 +8,8 @@ namespace ProductCrud.Repostories
 {
     public class ProductRepository : GenericRepository<Product>
     {
+
+        //GitHub icin commit 1
         public List<ProductViewModel> GetAllActiveProducts()
         {
             using var contex = new Contexts.ProjectDBContext();

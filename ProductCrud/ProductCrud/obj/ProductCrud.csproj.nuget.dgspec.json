@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\excalibur\\source\\repos\\ProductCrud\\ProductCrud\\ProductCrud.csproj": {}
+    "C:\\Users\\excalibur\\OneDrive\\Belgeler\\GitHub\\ProductCrud\\ProductCrud\\ProductCrud\\ProductCrud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\excalibur\\source\\repos\\ProductCrud\\ProductCrud\\ProductCrud.csproj": {
+    "C:\\Users\\excalibur\\OneDrive\\Belgeler\\GitHub\\ProductCrud\\ProductCrud\\ProductCrud\\ProductCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\excalibur\\source\\repos\\ProductCrud\\ProductCrud\\ProductCrud.csproj",
+        "projectUniqueName": "C:\\Users\\excalibur\\OneDrive\\Belgeler\\GitHub\\ProductCrud\\ProductCrud\\ProductCrud\\ProductCrud.csproj",
         "projectName": "ProductCrud",
-        "projectPath": "C:\\Users\\excalibur\\source\\repos\\ProductCrud\\ProductCrud\\ProductCrud.csproj",
+        "projectPath": "C:\\Users\\excalibur\\OneDrive\\Belgeler\\GitHub\\ProductCrud\\ProductCrud\\ProductCrud\\ProductCrud.csproj",
         "packagesPath": "C:\\Users\\excalibur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\excalibur\\source\\repos\\ProductCrud\\ProductCrud\\obj\\",
+        "outputPath": "C:\\Users\\excalibur\\OneDrive\\Belgeler\\GitHub\\ProductCrud\\ProductCrud\\ProductCrud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\excalibur\\AppData\\Roaming\\NuGet\\NuGet.Config",
